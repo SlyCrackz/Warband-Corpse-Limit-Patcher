@@ -1,5 +1,5 @@
 # Warband-Corpse-Limit-Patcher
-A simple patcher for Mount and Blade: Warband, to allow up to 999 corpses!
+A simple patch for Mount and Blade: Warband, to allow up to 999 corpses!
 
 This patch is designed to modify the 'mb_warband.exe' file in your Warband game installation. When you apply this patch, it automatically creates a backup of the original 'mb_warband.exe' file, renaming it to 'mb_warband.exe.bak'. This backup is stored in the same folder as your Warband installation, ensuring you have a way to revert any changes made by the patch.
 
